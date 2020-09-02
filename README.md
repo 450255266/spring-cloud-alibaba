@@ -12,7 +12,7 @@
 - Nacos 1.1.4 官网下载源码执行:mvn -Prelease-nacos -Dmaven.test.skip=true clean install -U  
 - Seata 1.0.0 官方下载即可根据官方进行配置
 - Sentinle 1.71 官方下载即可根据官方进行配置
-模块说明:
-- bom 依赖管理bom
-- busicen 业务模块
-- common 公共
+##### 工程说明
+- bom 依赖管理
+- buscien-service-01 服务注册demo
+- buscien-service-02 服务发现RestTemplate进行消费
