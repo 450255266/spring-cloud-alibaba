@@ -14,7 +14,7 @@
 - Sentinle 1.71 官方下载即可根据官方进行配置
 ##### 工程说明
 - bom 依赖管理
-- buscien-service-01 服务注册demo
-- buscien-service-02 服务发现RestTemplate进行消费
-- buscien-service-03 服务发现Feign进行消费
-- buscien-service-04 Nacos配置中心
+- [buscien-service-01 服务注册demo](https://www.cnblogs.com/SimpleWu/p/13601353.html)
+- [buscien-service-02 服务发现RestTemplate进行消费](https://www.cnblogs.com/SimpleWu/p/13601875.html)
+- [buscien-service-03 服务发现Feign进行消费](https://www.cnblogs.com/SimpleWu/p/13602833.html)
+- [buscien-service-04 Nacos配置中心](https://www.cnblogs.com/SimpleWu/p/13668019.html)
